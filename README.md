@@ -35,8 +35,8 @@ The front-end was adapted from an open-source project developed by [CenterForThe
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/fulvio9999/repository-name.git
-cd repository-name
+git clone https://github.com/fulvio9999/spark-meteorological-project.git
+cd spark-meteorological-project
 ```
 
 ### 2. Download the complete dataset and copy in `assets/data/dataset_completo/`:
